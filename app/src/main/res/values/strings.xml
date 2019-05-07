@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Resources Java</string>
+
+    <string name="display_size" translatable="false">Display size -</string>
+    <string name="pixel_density" translatable="false">Pixel density -</string>
+    <string name="orientation" translatable="false">Orientation -</string>
+    <string name="locale" translatable="false">Locale -</string>
+    <string name="day_night_mode" translatable="false">DayNight mode -</string>
+    <string name="touch_screen" translatable="false">Touch Screen -</string>
+
+    <string name="display_size_value" translatable="false" />
+    <string name="pixel_density_value" translatable="false" />
+    <string name="orientation_value" translatable="false" />
+    <string name="day_night_mode_value" translatable="false">Night mode OFF</string>
+    <string name="locale_value">United states of America</string>
+    <string name="touch_screen_value" translatable="false" />
+</resources>
